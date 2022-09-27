@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everybody 👋🏼
 
 <h1>My name is João Ricardo! Welcome to my GitHub...</h1>
 
@@ -6,7 +6,13 @@
   <a href="https://github.com/JoaoLRicardo">
   <img height="180em" width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoLRicardo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" width="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLRicardo&theme=react" />
-  <img height="180em" width="350" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoLRicardo&theme=react" />
+  
+</div>
+
+<div  align="center"> 
+    <div style="display: inline_block"><br>
+    <br><a href="https://www.instagram.com/jluizricardo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/joao-ricardo-92a523171/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
 </div>
 
 <div  align="center">  
@@ -22,11 +28,8 @@
   <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"> 
   <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://user-images.githubusercontent.com/80539264/192399109-a5e980d3-1619-4dbb-be86-325eb2b9abe1.png"> 
+  
 
 </div>
 
-<div  align="center"> 
-    <div style="display: inline_block"><br>
-    <br><a href="https://www.instagram.com/jluizricardo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/joao-ricardo-92a523171/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
-</div>
+
