@@ -32,4 +32,8 @@
 
 </div>
 
+  </br>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/JoaoLRicardo/count.svg" /></p>
+  
+  ![Snake animation](https://github.com/rtenorioh/JoaoLRicardo/blob/output/github-contribution-grid-snake.svg)
 
