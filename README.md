@@ -6,7 +6,7 @@
 
 Construo sistemas do zero ao deploy: entendo o problema, desenho a arquitetura, escrevo o código, monto a infraestrutura, automatizo o deploy e acompanho o comportamento em produção.
 
-🌐 **Portfólio:** [joaolricardo.github.io](https://joaolricardo.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-ricardo-a05a7828a/) · 📍 Curitiba, PR
+🌐 **Portfólio:** [joaolricardo.github.io](https://joaolricardo.github.io/portifolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-ricardo-a05a7828a/) · 📍 Curitiba, PR
 
 ---
 
