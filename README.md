@@ -17,7 +17,7 @@ Construo sistemas do zero ao deploy: entendo o problema, desenho a arquitetura, 
 - **Sistemas distribuídos:** mensageria com RabbitMQ (filas, DLQ, retry com backoff), chatbots e atendimento via WhatsApp com Botpress, integrações entre serviços.
 - **DevOps e CI/CD:** GitLab CI/CD em fluxo GitOps, build de imagens Docker (multi-stage), ambientes de homologação e produção, deploy automatizado.
 - **Infraestrutura:** servidores Linux, VMs, redes, DNS e domínios, Nginx, Apache, HAProxy, Keepalived e clusters de alta disponibilidade (PostgreSQL com Patroni, armazenamento S3 on-primesse).
-- **Performance e confiabilidade:** testes de carga, profiling, índices e consultas, cache, pools de conexão, análise de causa-raiz de incidentes e monitoramento com Zabbix, Prometheus, Grafana e Datadog.
+- **Performance e confiabilidade:** testes de carga, profiling, índices e consultas, cache, pools de conexão, análise de causa-raiz de incidentes e monitoramento com Zabbix, stack OpenTelemetry (junto com Grafana, Prometheus e Alertmanager).
 - **Inteligência artificial:** Claude Code e agentes de IA para investigar incidentes, revisar código, automatizar e documentar; arquiteturas que integram LLMs a produtos.
 
 ---
@@ -57,7 +57,7 @@ I build systems from scratch to deployment: understanding the problem, designing
 - **Distributed systems:** RabbitMQ messaging (queues, DLQ, retry with backoff), chatbots and WhatsApp customer service with Botpress, service integrations.
 - **DevOps & CI/CD:** GitLab CI/CD with a GitOps workflow, Docker image builds (multi-stage), staging and production environments, automated deployment.
 - **Infrastructure:** Linux servers, VMs, networking, DNS and domains, Nginx, Apache, HAProxy, Keepalived and high-availability clusters (PostgreSQL with Patroni, S3 on-primesse).
-- **Performance & reliability:** load testing, profiling, indexes and queries, caching, connection pools, incident root-cause analysis and monitoring with Zabbix, Prometheus, Grafana adn Datadog.
+- **Performance & reliability:** load testing, profiling, indexes and queries, caching, connection pools, incident root-cause analysis and monitoring with Zabbix, stack OpenTelemetry (Grafana, Prometheus e Alertmanager).
 - **AI:** Claude Code and AI agents for incident investigation, code review, automation and documentation; architectures that bring LLMs into products.
 
 </details>
